@@ -1,0 +1,5 @@
+$nomention
+$deletecommand 
+$onlyPerms[manageroles;❌ *Tu n'as* **pas** *les permissions* __requises__.]
+$giveRole[$mentionedRoles[<]]
+✔️ **Succès de la** __requête__
