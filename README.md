@@ -1,2 +1,1 @@
-# add-role-bdfd
-pour ajouter un role à une personne sur bdfd
+pour ajouter un role à une personne sur bdfd , marche seulement sur bdfd!
